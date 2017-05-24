@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "9091b06cc1b1a5695ae69a84a59c961a"
+build_time: [548953700, 412233000]
+inputs:
+  "/Users/ianluo/Documents/work/projects/Ant/Ant/Ant.swift": [548953698, 0]

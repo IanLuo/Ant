@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ianluo/Documents/work/projects/Ant/Ant/build/Debug-iphonesimulator/Ant.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Ant-Swift.h",
+          'external-contents': "/Users/ianluo/Documents/work/projects/Ant/Ant/build/Debug-iphonesimulator/Ant.framework/Headers/Ant-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Ant.h",
+          'external-contents': "/Users/ianluo/Documents/work/projects/Ant/Ant/Ant/Ant.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ianluo/Documents/work/projects/Ant/Ant/build/Debug-iphonesimulator/Ant.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ianluo/Documents/work/projects/Ant/Ant/build/Ant.build/Debug-iphonesimulator/Ant.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

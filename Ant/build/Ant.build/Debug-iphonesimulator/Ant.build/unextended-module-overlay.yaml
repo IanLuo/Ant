@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ianluo/Documents/work/projects/Ant/Ant/build/Debug-iphonesimulator/Ant.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ianluo/Documents/work/projects/Ant/Ant/build/Ant.build/Debug-iphonesimulator/Ant.build/unextended-module.modulemap',
+    }]
+  }]
+}

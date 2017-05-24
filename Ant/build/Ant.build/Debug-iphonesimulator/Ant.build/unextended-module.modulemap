@@ -1,0 +1,10 @@
+framework module Ant {
+  umbrella header "Ant.h"
+
+  export *
+  module * { export * }
+}
+
+module Ant.__Swift {
+    exclude header "Ant-Swift.h"
+}
